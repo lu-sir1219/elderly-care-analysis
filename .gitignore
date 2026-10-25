@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 数据库中间产物（如需复现可重新生成）
+*.db-journal
+
+# 系统文件
+Thumbs.db
+.DS_Store
